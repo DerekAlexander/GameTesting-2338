@@ -3,7 +3,7 @@
 ## Test Details
 
 * Test Case ID:
-  * # 1
+  * #1
 * Test Case Name:
   * requirement 3.2 - 1 
 * Component: 
@@ -29,9 +29,9 @@
 ## Test Steps:  
 | # | Description | Expected Result | Check (√) |
 | --- | --- | ---  | --- |
-| 1 | start build mode | in buildmode  | --- |
-| 2 | create character / name and password | we are logged in | --- |
-| 3 | launch online game session  | joined game session | --- |
+| 1 | start build mode | in buildmode  |  |
+| 2 | create character / name and password | we are logged in |  |
+| 3 | launch online game session  | joined game session |  |
 | 4 | go back to single player see if new character option is available or trying to load multiplayer | still no saved character and new character option available  | |			
 
 ## Overall Test Status:
