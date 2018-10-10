@@ -3,42 +3,38 @@
 ## Test Details
 
 * Test Case ID:
-  * #1
+  * # 1
 * Test Case Name:
-  * #Number
+  * requirement 3.2 - 1 
 * Component: 
-  * Description
+  * New Game
 * Test Case Designer:
-  * Name
+  * Derek Alexander, Austin Gatlin
 * Creation Date:
-  * Date
+  * Date 10/9/2018
 * Modified By:
   * Name
 * Modified Date:
-  * Date
+  * Date 
 * Requirements Covered:
-  * Description
+  * 1: Description: 
+  new save only works in story mode
 * Test Description/Purpose:
-  * Description
+  * Description: 
+  to not create a single player game while in build mode.
 * Pre-Test Conditions:
-  * Description
-## Test Steps: 
+  * Description:
+  * no single player save exist
+  
+## Test Steps:  
 | # | Description | Expected Result | Check (√) |
-| --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
-| 4 | | | |			
-| 5 | | | |			
-| 6 | | | |			
-| 7 | | | |			
-| 8 | | | |			
-| 9 | | | |			
-| 10 | | | |			
+| --- | --- | ---  | --- |
+| 1 | start build mode | in buildmode  | --- |
+| 2 | create character / name and password | we are logged in | --- |
+| 3 | launch online game session  | joined game session | --- |
+| 4 | go back to single player see if new character option is available or trying to load multiplayer | still no saved character and new character option available  | |			
 
 ## Overall Test Status:
-
-
 
 ## Run History:
 | # |	Run Date |	Run By |	Results |
