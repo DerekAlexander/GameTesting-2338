@@ -3,7 +3,7 @@
 ## Test Details
 
 * Test Case ID:
-  * #Number
+  * #1
 * Test Case Name:
   * #Number
 * Component: 
