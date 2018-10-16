@@ -20,7 +20,7 @@
   * 1: Description: 
   new save only works in story mode
 * Test Description/Purpose:
-  * Description: 
+  * Purpose: 
   to not create a single player game while in build mode.
 * Pre-Test Conditions:
   * Description:
@@ -68,10 +68,10 @@
   Check to see how much time has passed since the user last entered some
   kind of input and log them out if that time surpasses x seconds.
 * Test Description/Purpose:
-  * Purpose
+  * Purpose:
   * Making sure that inactive players will be removed from the game afte a certain period of inactivity
 * Pre-Test Conditions:
-  * Description
+  * Description:
   * Working servers
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
@@ -107,36 +107,36 @@
 * Test Case ID:
   * #3
 * Test Case Name:
-  * #Number
+  * #Number 3.3 -1
 * Component: 
-  * Description
+  * Save game 
 * Test Case Designer:
-  * Name
+  * Derek Alexander
 * Creation Date:
-  * Date
+  * 10/16/18
 * Modified By:
   * Name
 * Modified Date:
   * Date
 * Requirements Covered:
-  * Description
+  * Description:
+  Saving only works in story mode.
 * Test Description/Purpose:
-  * Description
+  *purpose
+  * Make sure saving only is possible to do in story mode and not online/build mode.
 * Pre-Test Conditions:
-  * Description
+  * Description:
+  Have working single player safe file.
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
-| 4 | | | |			
-| 5 | | | |			
-| 6 | | | |			
-| 7 | | | |			
-| 8 | | | |			
-| 9 | | | |			
-| 10 | | | |			
+| 1 | Start game in build mode |In build mode |  |			
+| 2 | Create character / name and password | We are logged in |  |
+| 3 | Launch online game session  | Joined game session |  |
+| 4 | Go back to story mode | Story mode starts  | |			
+| 5 | Load single player story mode save file | Loads pre-test save file correctly | |			
+| 6 | See if character has been modified at all after going to build mode | Character intact no modifications or overwritting | |			
+
 
 ## Overall Test Status:
 
