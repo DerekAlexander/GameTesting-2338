@@ -39,9 +39,9 @@
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
+| 1 | 1/6/2018 | Austin Gatlin | Failed |			
+| 2 | 6/19/2018 | Derek Alexander | Failed |			
+| 3 | 10/15/2018 | Derek Alexander | Passed |			
 
 
 
@@ -76,16 +76,13 @@
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
-| 4 | | | |			
-| 5 | | | |			
-| 6 | | | |			
-| 7 | | | |			
-| 8 | | | |			
-| 9 | | | |			
-| 10 | | | |			
+| 1 | Start game and select build mode| in build mode  | √ |			
+| 2 | Log in and join online session | in online session | √ |			
+| 3 | Wait specified amount of time without generating input | logged out of game session | √ |			
+| 4 | Repeat steps 1 and 2 | in online session | √ |			
+| 5 | Generate input for a for specified logout time | still in online session | √ |			
+| 6 | Now that some input has been generated before, do not generate input for specified logout time | logged out of session | √ |			
+	
 
 ## Overall Test Status:
 
@@ -94,9 +91,9 @@
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
+| 1 | 5/12/2018 | Austin Gatlin| Passed |			
+| 2 | | 8/16/2018 | Austin Gatlin | Passed |			
+| 3 | 10/16/2018 | Derek Alexander | Passed |			
 
 
 
@@ -145,7 +142,7 @@
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
+| 1 | 2/6/2018 | Derek Alexander | Failed |			
+| 2 | 7/25/2018 | Austin Gatlin | Passed |			
+| 3 | 10/16/2018 | Derek Alexander | Passed |			
 
