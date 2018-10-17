@@ -92,7 +92,7 @@
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
 | 1 | 5/12/2018 | Austin Gatlin| Passed |			
-| 2 | | 8/16/2018 | Austin Gatlin | Passed |			
+| 2 | 8/16/2018 | Austin Gatlin | Passed |			
 | 3 | 10/16/2018 | Derek Alexander | Passed |			
 
 
