@@ -1,4 +1,4 @@
-# Game Critique Two  
+# Game Critique Three
 
 ## Details
 * Game Title: Overcooked! 
